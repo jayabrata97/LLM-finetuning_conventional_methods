@@ -2,3 +2,4 @@ aclImdb
 train.csv
 test.csv
 val.csv
+__pycache__/
